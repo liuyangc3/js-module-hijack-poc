@@ -10,4 +10,4 @@ npm install
 node index.js
 ```
 
-Thanks to author // https://blog.sqreen.com/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
+Thanks to author of https://blog.sqreen.com/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
