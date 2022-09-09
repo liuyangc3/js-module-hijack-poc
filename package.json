@@ -1,0 +1,24 @@
+{
+  "name": "js-module-hijack-poc",
+  "version": "1.0.0",
+  "description": "POC how to hijack a js module on compile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyangc3/js-module-hijack-poc.git"
+  },
+  "author": "liuyangc3@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuyangc3/js-module-hijack-poc/issues"
+  },
+  "homepage": "https://github.com/liuyangc3/js-module-hijack-poc#readme",
+  "dependencies": {
+    "acorn": "^8.8.0",
+    "compile-hook": "^1.0.0",
+    "falafel": "^2.2.5"
+  }
+}
